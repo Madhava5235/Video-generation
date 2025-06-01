@@ -1,7 +1,2 @@
-streamlit==1.45.1
-diffusers==0.27.2
-transformers==4.39.3
-torch==2.2.0      # Make sure it's before xformers
-safetensors==0.5.3
-einops==0.8.1
-xformers==0.0.30
+streamlit>=1.32.0
+requests>=2.31.0
