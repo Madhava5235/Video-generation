@@ -4,7 +4,7 @@ import json
 import time
 
 # === Configuration ===
-API_KEY = "AIzaSyBVO9BboW-38hrdqX8nZRQu7HdCU4oS76o"  # 🔐 Replace with your Vertex AI API Key
+API_KEY = ""  # 🔐 Replace with your Vertex AI API Key
 PROJECT_ID = "video-generation-461605"
 LOCATION = "us-central1"
 MODEL_ID = "veo-2.0-generate-001"
